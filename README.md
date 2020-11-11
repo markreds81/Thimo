@@ -1,0 +1,2 @@
+# Thimo
+Remote controlled thermostat
